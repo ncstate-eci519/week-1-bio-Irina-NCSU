@@ -1,4 +1,4 @@
-# [Change to your name]
+# Irina Glabuchek
 
 ## About Me
-Put a brief bio here about you. Use a few **bold** and _italic_ words and maybe a [link or two](http://www.google.com).
+Hello! I'm Irina. This is my second year in the **Learning Design & Techgnologies M.Ed. Program**. I've been only taking 1 course per semester so far, so it may take me a while to get the degree. I'd love to do get it sooner, but there is literally _not enough time_ as I also have a job and four children. I've started my [professional webiste](https://www.irinawelsh.com/) last semester where I'm planning to publish my portfolio. I'm not a technical person at all, but I'm pretty good at building Wordpress websites, and I love building AI chatbots with IBM Watson Assistant (which I do for my work). 
